@@ -7,6 +7,11 @@ export default {
     },
     extend: {
       backgroundImage: {},
+      colors: {
+        rugged: "#115E59",
+        simple: "#E17654",
+        luxury: "#161616",
+      },
     },
   },
 
